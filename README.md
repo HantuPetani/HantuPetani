@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🎓 A passionate **Computer Engineering Student** from **Universitas Syiah Kuala**
-- 🐧 Linux lover — currently using **Ubuntu** as main OS
+- 🐧 Linux lover — currently using **Arch** as main OS
 - 🧠 Interested in **Cybersecurity**, **Blockchain**, and **Finance**
 - 🖥 Always experimenting with **Linux**, **Networking**, and **Hacking**
 
