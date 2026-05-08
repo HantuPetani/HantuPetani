@@ -57,7 +57,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://id.linkedin.com/in/sayidil-anam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -68,14 +68,20 @@
   <a href="https://app.hackthebox.com/profile">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white&style=for-the-badge" />
   </a>
-
 ---
 
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayidil-anam&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayidil-anam&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sayidil-anam&show_icons=true&theme=radical&hide_border=true"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayidil-anam&layout=compact&theme=radical&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
