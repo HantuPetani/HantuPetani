@@ -4,31 +4,28 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">⚡ Hi, I'm da3m0ns ⚡</h1>
+<h1 align="center"> Hi, I'm da3m0ns </h1>
 <h3 align="center">💻 Computer Engineering Student | 🚩 CTF Player | 🪙 Web3 Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 A passionate **Computer Engineering Student** from **Universitas Syiah Kuala**
-- 🐧 Linux lover — currently using **Arch** as main OS
+- 🐧 Linux lover — currently using Endeavouros as main OS
 - 🧠 Interested in **Cybersecurity**, **Blockchain**, and **Finance**
 - 🖥 Always experimenting with **Linux**, **Networking**, and **Hacking**
 
 ---
 
-### 🧠 Currently Exploring
+### Currently Exploring
 
 - 🔗 Blockchain & Web3
-- 💸 Algorithmic Trading
-- 🔒 Cybersecurity (WPA3, Nmap, Wireshark, Pentesting)
-- ⚡ IoT system integration and data visualization
-- 🤖 Workflow automation using **n8n** + **AI agents** on progress
+- 🔒 Cybersecurity (PWN)
+- 🔳 IoT system integration and data visualization
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
 
@@ -62,28 +59,19 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/sayidil-anam">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://id.linkedin.com/in/sayidil-anam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/sayidil_anam/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:hantupetani89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://app.hackthebox.com/profile">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white&style=for-the-badge" />
   </a>
-</p>
-
-</p>
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayidil-anam&show_icons=true&theme=radical&hide_border=true" height="165" />
@@ -96,7 +84,7 @@
 
 ---
 
-### 🏆 Fun Section
+### Fun Section
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sayidil-anam&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
@@ -108,4 +96,4 @@
 
 ---
 
-⭐️ From [da3m0ns](https://github.com/sayidil-anam)
+❤️ From [da3m0ns](https://github.com/sayidil-anam)
