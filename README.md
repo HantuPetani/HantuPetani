@@ -86,11 +86,6 @@
 
   <br/>
 
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com?user=sayidil-anam&theme=radical&hide_border=true"
-  />
-
 </div>
 
 ---
