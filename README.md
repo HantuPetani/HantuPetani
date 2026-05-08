@@ -75,17 +75,23 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sayidil-anam&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Stats"
     height="165"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayidil-anam&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
     height="165"
   />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayidil-anam&theme=radical&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sayidil-anam&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
 </p>
 
 ---
