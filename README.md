@@ -72,27 +72,26 @@
 
 ### GitHub Analytics
 
-<p align="center">
+<div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sayidil-anam&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
     height="165"
+    src="https://github-readme-stats.vercel.app/api?username=sayidil-anam&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayidil-anam&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
     height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayidil-anam&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
   />
-</p>
 
-<p align="center">
+  <br/>
+
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sayidil-anam&theme=radical&hide_border=true"
-    alt="GitHub Streak"
     height="165"
+    src="https://streak-stats.demolab.com?user=sayidil-anam&theme=radical&hide_border=true"
   />
-</p>
+
+</div>
 
 ---
 
