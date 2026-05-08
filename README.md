@@ -1,6 +1,6 @@
 <!-- Header Gif -->
 <p align="center">
-  <img src="assets/5.gif"/>
+  <img src="assets/chill_mario_by_pixeljeff_ddjk36s.gif"/>
 </p>
 
 <!-- Title -->
