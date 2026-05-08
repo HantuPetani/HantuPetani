@@ -81,8 +81,6 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayidil-anam&layout=compact&theme=radical&hide_border=true"
   />
 
-  <br/>
-
   <img
     height="165"
     src="https://streak-stats.demolab.com?user=sayidil-anam&theme=radical&hide_border=true"
