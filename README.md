@@ -60,12 +60,9 @@
 ### Connect With Me
 <p align="center">
 
-  <a href="https://id.linkedin.com/in/sayidil-anam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/sayidil_anam/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://id.linkedin.com/in/sayidil-anam)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sayidil_anam/)
+
  
 </p>
 
