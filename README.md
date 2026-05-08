@@ -65,10 +65,7 @@
   <a href="https://www.instagram.com/sayidil_anam/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://app.hackthebox.com/profile">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white&style=for-the-badge" />
-  </a>
----
+ ---
 
 ### GitHub Analytics
 
@@ -86,8 +83,12 @@
 
   <br/>
 
-</div>
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=sayidil-anam&theme=radical&hide_border=true"
+  />
 
+</div>
 ---
 
 ### Fun Section
