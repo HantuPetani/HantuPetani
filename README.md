@@ -61,12 +61,6 @@
 ---
 
 ### 🌐 Connect With Me
-
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/da3m0ns.png" alt="Your Image Badge"
-/>
-</p>
-
 <p align="center">
   <a href="https://github.com/sayidil-anam">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
