@@ -11,17 +11,17 @@
 
 ### About Me
 
-- 🐧 Linux lover — currently using Endeavouros as main OS
-- 🧠 Interested in **Cybersecurity**, **Blockchain**, and **Finance**
+- 🐧 Linux lover — currently using Cachy as main OS
+- 🧠 Interested in **Cybersecurity**, **Low Level Things**, and **Books**
 - 🖥 Always experimenting with **Linux**, **Networking**, and **Hacking**
 
 ---
 
 ### Currently Exploring
 
-- 🔗 Blockchain & Web3
-- 🔒 Cybersecurity (PWN)
-- 🔳 IoT system integration and data visualization
+- 🔒 Capture the Flag - PWN
+- 🎯 Bug Bounty
+- 🌐 Web Exploitation
 
 ---
 
