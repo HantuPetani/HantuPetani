@@ -53,29 +53,4 @@
   <a href="https://www.instagram.com/sayidil_anam/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
----
-
-### GitHub Analytics
-
-<div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayidil-anam&show_icons=true&theme=radical&hide_border=true"
-  />
-
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayidil-anam&theme=radical&hide_border=true"
-  height="195"
-/>
-
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com?user=sayidil-anam&theme=radical&hide_border=true"
-  />
-
-</div>
-
----
-
 💙 From **da3m0ns**
