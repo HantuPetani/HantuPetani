@@ -5,7 +5,7 @@
 
 <!-- Title -->
 <h1 align="center"> Hi, I'm da3m0ns </h1>
-<h3 align="center">💻 Computer Engineering Student | 🚩 CTF Player | 🪙 Web3 Enthusiast</h3>
+<h3 align="center">💻 Computer Engineering Student | 🚩 CTF Player | ☠️ PWN Enjoyer </h3>
 
 ---
 
